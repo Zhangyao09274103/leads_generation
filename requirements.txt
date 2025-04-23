@@ -1,0 +1,13 @@
+langchain==0.3.24
+langgraph==0.3.31
+openai==1.75.0
+selenium==4.31.0
+beautifulsoup4==4.13.4
+transformers==4.51.3
+torch==2.7.0
+pandas==2.2.3
+plotly==6.0.1
+scikit-learn==1.6.1
+requests==2.32.3
+numpy==2.0.2
+python-dotenv==1.0.0 
