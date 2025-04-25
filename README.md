@@ -80,7 +80,3 @@ Modify the following parameters in `lead_generation.py`:
 - In a production environment, replace with real historical data
 - Respect rate limits and terms of service when scraping
 - Consider implementing proxy rotation for large-scale scraping
-
-## License
-
-MIT License 
